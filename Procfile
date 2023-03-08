@@ -1,1 +1,1 @@
-web: gunicorn qbfront.wsgi
+web: gunicorn mysite.wsgi
